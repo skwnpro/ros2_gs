@@ -1,0 +1,20 @@
+# ROS2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# editor
+.vscode/
+.idea/
+
+# python
+__pychache__/
+*.pyc
+
+# rosbag
+*.db3
+*.mcap
+
+#*temporary
+*.tmp
+*.swp
