@@ -29,6 +29,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/OperatorCommand.msg"
   "msg/SensorData.msg"
   "msg/NetworkStatus.msg"
+  "msg/RelayOperator.msg"
 
   DEPENDENCIES
   std_msgs
